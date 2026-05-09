@@ -79,15 +79,22 @@ Notes for reproducibility 📝
 
 Output snapshots 🖼️
 ----------------
-
 - Face Mask Detection:
+<img width="632" height="732" alt="Screenshot 2026-05-09 162721" src="https://github.com/user-attachments/assets/f65df685-66e0-427e-8eca-243dddebe49e" />
+<img width="623" height="444" alt="Screenshot 2026-05-09 162747" src="https://github.com/user-attachments/assets/22d8f0e4-fd32-425e-8f63-6230ca13f118" />
+<img width="602" height="442" alt="Screenshot 2026-05-09 162756" src="https://github.com/user-attachments/assets/91bd01aa-2c01-4fe4-a483-631279ff6bf5" />
 
 - Customer Segmentation:
+<img width="920" height="546" alt="Screenshot 2026-05-09 162813" src="https://github.com/user-attachments/assets/ed54b44d-f1b7-4fe6-a1b0-3e7c5b58467c" />
+<img width="661" height="751" alt="Screenshot 2026-05-09 162911" src="https://github.com/user-attachments/assets/7ed4090a-46e8-4310-be3b-5c14eb68bd37" />
 
 Project Explanation Video 🎥
 -------------------------
-
-
+- Face Mask Detection:
+https://github.com/user-attachments/assets/85767011-5e61-4ef0-bee5-35f11ecd7b35
+  
+- Customer Segmentation:
+https://github.com/user-attachments/assets/17e2319e-c8ae-44c1-962e-f7609060b434
 
 Project results (short) ✅
 ----------------------
